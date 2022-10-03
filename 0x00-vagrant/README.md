@@ -1,1 +1,1 @@
-first repository of the first task of your first School project
+0-hello_ubuntu
